@@ -1,0 +1,72 @@
+body {
+  height: 100%;
+  background-color: silver;
+}
+
+img {
+  border-style: solid;
+  width: 200px;
+  height: 150px;
+  border-radius: 50%;
+  border-color: green;
+  border-width: 10px;
+}
+
+.c-site-header {
+  font-size: 100px;
+  color: green;
+ 
+}
+
+.c-site-footer {
+  font-size: 20px;
+  text-align: right;
+  background-color: green;
+  color: white;
+  padding: 10px 50px;
+  margin-top: 10px;
+}
+
+.content {
+  width: 800px;
+  margin: auto;
+  background-color: white;
+  padding-bottom: 100px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  text-align: justify;
+  padding: 10px 100px;
+}
+
+h1 {color: blue;
+font-size: 50px;
+}
+
+a {font-size: 36px;
+}
+a:hover {color: red;
+}
+
+/* Style for java input box in home work */
+
+#post {
+  font-size: 20px;
+  padding: 5px 50px;
+}
+#post:hover {
+  color: red;
+}
+#comment-box {
+  width: 400px;
+  height: 30px;
+  font-size: 20px;
+}
+#unordered {
+  font-size: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(255, 0, 0);
+}
